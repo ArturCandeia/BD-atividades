@@ -1,6 +1,9 @@
 # BD-atividades
+
 Nome:Artur Morais Candeia
+
 Email:artur.candeia.086@ufrn.edu.br
+
 Matrícula:	20220042257
 
 link para tarefa-orm:
